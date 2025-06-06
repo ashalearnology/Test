@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </link>
   </div>
   <HelloWorld msg="Vue- app has been modified" />
+  
 </template>
 
 <style scoped>
